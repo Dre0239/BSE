@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Book Search Engine",
   "main": "server/server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
@@ -15,7 +15,7 @@
     "url": ""
   },
   "keywords": [],
-  "author": "",
+  "author": "Dre",
   "license": "ISC",
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
